@@ -1,6 +1,10 @@
-<div align="center">
-  <img src="https://vercel.app|%20Low-Level%20Systems&theme=tokyonight&cardWidth=600&cardHeight=150" alt="Tezzarius Terminal" />
-</div>
+<pre>
+┌────────────────────────────────────────────────────────┐
+│  > Tezzarius                                           │
+│  Software Engineering Student @ 42 Vienna              │
+│  Low-Level Systems & Software Architecture             │
+└────────────────────────────────────────────────────────┘
+</pre>
 
 ```text
 ┌────────────────────────────────────────────────────────┐
