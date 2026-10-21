@@ -52,5 +52,5 @@ Hier ist ein strukturierter Überblick über die Systeme und Projekte, die ich b
 
 ### 📬 Kontakt
 
-* 💼 **LinkedIn:** [Dein LinkedIn-Link]
-* 📧 **E-Mail:** [Deine E-Mail-Adresse]
+<!--* 💼 **LinkedIn:** [Dein LinkedIn-Link] -->
+* 📧 **E-Mail:** mortis@live.at
