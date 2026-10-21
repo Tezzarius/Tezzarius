@@ -1,14 +1,17 @@
-<div align="center">
-  <img src="banner.jpeg" alt="Tezzarius Terminal" width="600" />
-</div>
-
-<pre>
+<table background="banner.jpeg" width="100%" cellpadding="20" cellspacing="0" border="0">
+<tr>
+<td>
+<!-- Der Text innerhalb dieser Box liegt direkt über deinem Hintergrundbild -->
+<pre style="background: transparent; border: none; padding: 0; margin: 0;">
 ┌────────────────────────────────────────────────────────┐
 │  > Tezzarius                                           │
 │  Software Engineering Student @ 42 Vienna              │
 │  Low-Level Systems & Software Architecture             │
 └────────────────────────────────────────────────────────┘
 </pre>
+</td>
+</tr>
+</table>
 
 ```text
 ┌────────────────────────────────────────────────────────┐
