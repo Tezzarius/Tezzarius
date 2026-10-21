@@ -4,12 +4,12 @@
 > *Deep-diving into low-level systems, architecture, and robust software design.*
 
 ```text
-┌────────────────────────────────────────────────────────┐
-│  OS       : Linux / Unix Core                          │
+┌──────────────────────────────────────────────────────────┐
+│  OS       : Linux / Unix Core                            │
 │  Main     : C / C++ (OOP, Memory Management, Concurrency)│
-│  Network  : IRC Protocol, Sockets, System Admin        │
-│  Status   : Mastering Core Curriculum & Algorithms     │
-└────────────────────────────────────────────────────────┘
+│  Network  : IRC Protocol, Sockets, System Admin          │
+│  Status   : Mastering Core Curriculum & Algorithms       │
+└──────────────────────────────────────────────────────────┘
 ```
 
 ---
