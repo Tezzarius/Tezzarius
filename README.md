@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" alt="Tezzarius Terminal" width="600" />
+  <img src="banner.jpeg" alt="Tezzarius Terminal" width="600" />
 </div>
 
 <pre>
