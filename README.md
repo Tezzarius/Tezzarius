@@ -52,8 +52,8 @@ Hier ist ein strukturierter Überblick über die Systeme und Projekte, die ich b
 
 ### 📬 Kontakt
 
-* 💼 **LinkedIn:** [Dein LinkedIn-Link]
-* 📧 **E-Mail:** [Deine E-Mail-Adresse]
+<!-- * 💼 **LinkedIn:** [Dein LinkedIn-Link] -->
+* 📧 **E-Mail:** mortis@live.at
 
 ```text
 ⚡ "In the shadow of the compiler, code reveals its true form."
