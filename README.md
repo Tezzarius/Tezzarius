@@ -1,17 +1,20 @@
-<table background="banner.jpeg" width="100%" cellpadding="20" cellspacing="0" border="0">
-<tr>
-<td>
-<!-- Der Text innerhalb dieser Box liegt direkt über deinem Hintergrundbild -->
-<pre style="background: transparent; border: none; padding: 0; margin: 0;">
+<div align="center">
+  <svg width="600" height="140" viewBox="0 0 600 140" fill="none" xmlns="http://w3.org">
+    <!-- Hier wird dein hochgeladenes Bild als Hintergrund fixiert -->
+    <image href="banner.png" width="600" height="140" preserveAspectRatio="xMidYMid slice" />
+    
+    <!-- Das foreignObject erlaubt echten, anpassbaren HTML/Code-Text über dem Bild -->
+    <foreignObject x="20" y="15" width="560" height="110">
+      <pre style="background: transparent; border: none; color: #ffffff; font-family: 'Courier New', monospace; font-size: 14px; line-height: 1.5; margin: 0; padding: 0; text-shadow: 1px 1px 3px rgba(0,0,0,0.8);">
 ┌────────────────────────────────────────────────────────┐
 │  > Tezzarius                                           │
 │  Software Engineering Student @ 42 Vienna              │
 │  Low-Level Systems & Software Architecture             │
 └────────────────────────────────────────────────────────┘
-</pre>
-</td>
-</tr>
-</table>
+      </pre>
+    </foreignObject>
+  </svg>
+</div>
 
 ```text
 ┌────────────────────────────────────────────────────────┐
