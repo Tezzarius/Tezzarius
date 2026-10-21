@@ -1,4 +1,4 @@
-# 🌒 Tezzarius
+# Tezzarius
 
 > **Software Engineering Student @ 42 Vienna**
 > *Deep-diving into low-level systems, architecture, and robust software design.*
@@ -54,7 +54,3 @@ Hier ist ein strukturierter Überblick über die Systeme und Projekte, die ich b
 
 <!-- * 💼 **LinkedIn:** [Dein LinkedIn-Link] -->
 * 📧 **E-Mail:** mortis@live.at
-
-```text
-⚡ "In the shadow of the compiler, code reveals its true form."
-```
