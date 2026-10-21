@@ -4,12 +4,12 @@
 | `Software Engineering Student @ 42 Vienna` <br> `Low-Level Systems & Software Architecture` |
 
 ```text
-┌────────────────────────────────────────────────────────┐
-│  OS       : Linux / Unix Core                          │
-│  Main     : C / C++ (OOP, Memory Management, Concurrency)│
-│  Network  : IRC Protocol, Sockets, System Admin        │
-│  Status   : Mastering Core Curriculum & Algorithms     │
-└────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────┐
+│  OS       : Linux / Unix Core                              │
+│  Main     : C / C++ (OOP, Memory Management, Concurrency)  │
+│  Network  : IRC Protocol, Sockets, System Admin            │
+│  Status   : Mastering Core Curriculum & Algorithms         │
+└────────────────────────────────────────────────────────────┘
 ```
 
 ---
